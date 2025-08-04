@@ -1,0 +1,17 @@
+body{
+    background-color: darkorchid;
+}
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    color: pink;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    margin-left: 660px;
+    width: 60%;
+}
